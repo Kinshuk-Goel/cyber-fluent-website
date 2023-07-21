@@ -1,0 +1,30 @@
+/* styles/Header.module.css */
+
+.header {
+    background-color: #111;
+    padding: 16px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu a {
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+
+.menu a:hover {
+    color: #66ccff;
+}
+
+
+
